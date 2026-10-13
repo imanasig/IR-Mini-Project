@@ -1,0 +1,4 @@
+Sana Example
+Frontend Web Developer
+Built accessible React.js interfaces with JavaScript, TypeScript, HTML and CSS.
+Integrated REST APIs and used Git. Collaborated with designers to improve browser performance.

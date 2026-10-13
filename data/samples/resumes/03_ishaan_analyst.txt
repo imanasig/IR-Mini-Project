@@ -1,0 +1,5 @@
+Ishaan Example
+Data Analyst
+Analyzed datasets using Python, Pandas, SQL and Excel.
+Built Power BI dashboards and explained business trends to stakeholders.
+Cleaned datasets and automated monthly reporting.

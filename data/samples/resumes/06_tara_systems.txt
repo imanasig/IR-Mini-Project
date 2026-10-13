@@ -1,0 +1,4 @@
+Tara Example
+Systems Developer
+Implemented C++ tools on Linux. Built C# and .NET desktop utilities.
+Used Git, Azure and SQL for internal services.

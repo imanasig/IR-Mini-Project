@@ -1,0 +1,5 @@
+[theme]
+primaryColor = "#6366F1"
+font = "sans serif"
+[server]
+maxUploadSize = 5

@@ -1,0 +1,2 @@
+Data Analyst
+Analyze business datasets with Python, Pandas, SQL and Excel. Build Power BI dashboards, clean datasets, explain trends and communicate analysis to stakeholders.

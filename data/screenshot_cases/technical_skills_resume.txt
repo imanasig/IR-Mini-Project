@@ -1,0 +1,4 @@
+Alex Example
+Software Developer
+Built C++ utilities and C# applications with .NET.
+Developed Node.js services using JS, Postgres and RESTful API.

@@ -1,0 +1,4 @@
+Meera Example
+Junior Backend Developer
+Built Python and Flask REST API services using SQLite.
+Used Git and Linux. Created small web applications and documented endpoints.

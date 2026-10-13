@@ -1,0 +1,2 @@
+Python Backend Developer
+Build backend services using Python, Django, REST APIs and PostgreSQL. Write unit testing with pytest, use Git and Docker, and collaborate on reliable services.

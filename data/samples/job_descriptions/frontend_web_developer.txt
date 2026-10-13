@@ -1,0 +1,2 @@
+Frontend Web Developer
+Build accessible web interfaces using JavaScript, React.js, HTML and CSS. Use TypeScript, REST APIs and Git. Collaborate with designers and improve browser performance.

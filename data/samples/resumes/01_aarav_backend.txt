@@ -1,0 +1,5 @@
+Aarav Example
+Python Backend Developer
+Built Python and Django services with RESTful APIs and Postgres.
+Used Docker and Git for deployments. Wrote unit testing with pytest.
+Developed reliable backend services with PostgreSQL and SQL.

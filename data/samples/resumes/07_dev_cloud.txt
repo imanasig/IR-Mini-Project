@@ -1,0 +1,4 @@
+Dev Example
+Cloud Engineer
+Managed AWS infrastructure using Docker, Kubernetes and Linux.
+Maintained CI/CD pipelines and Redis services. Used Git for configuration reviews.

@@ -1,0 +1,2 @@
+Software Developer
+Develop software with C++, C#, .NET, Node.js, JavaScript, PostgreSQL and REST API.
